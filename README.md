@@ -15,9 +15,9 @@ This project is intended for stage 1 of [Kotlin Nanodegree Program](https://www.
 * [Jetpack Compose](https://developer.android.com/jetpack/compose)
 
 ## Screenshots
-<img src="https://github.com/Skyliner-dev/ShoeStore-Cazade/assets/109461607/f0f8a03d-122b-461b-a82c-d2db2b568010" width="100" height="100">
-
-![Login](https://github.com/Skyliner-dev/ShoeStore-Cazade/assets/109461607/f0f8a03d-122b-461b-a82c-d2db2b568010) ![Welcome](https://github.com/Skyliner-dev/ShoeStore-Cazade/assets/109461607/e5c30b72-00db-4311-a643-202c3ad57306) ![Instructions](https://github.com/Skyliner-dev/ShoeStore-Cazade/assets/109461607/44347914-3dcb-441a-b006-195359605991) ![HomePage](https://github.com/Skyliner-dev/ShoeStore-Cazade/assets/109461607/51644d3b-818f-4bda-910d-c3a292839107) ![AddPage](https://github.com/Skyliner-dev/ShoeStore-Cazade/assets/109461607/49f90165-1886-495a-a2a6-25cacd66c422)
+<img src="https://github.com/Skyliner-dev/ShoeStore-Cazade/assets/109461607/f0f8a03d-122b-461b-a82c-d2db2b568010" width="200" height="800"> <img src="https://github.com/Skyliner-dev/ShoeStore-Cazade/assets/109461607/e5c30b72-00db-4311-a643-202c3ad57306" width="200" height="800">
+<img src="https://github.com/Skyliner-dev/ShoeStore-Cazade/assets/109461607/44347914-3dcb-441a-b006-195359605991" width="200" height="800"> <img src="https://github.com/Skyliner-dev/ShoeStore-Cazade/assets/109461607/51644d3b-818f-4bda-910d-c3a292839107" width="200" height="800">
+<img src="https://github.com/Skyliner-dev/ShoeStore-Cazade/assets/109461607/49f90165-1886-495a-a2a6-25cacd66c422" width="200" height="800">
 
 ## Video
 
