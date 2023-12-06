@@ -20,7 +20,9 @@ This project is intended for stage 1 of [Kotlin Nanodegree Program](https://www.
 
 ## Video
 
-https://github.com/Skyliner-dev/ShoeStore-Cazade/assets/109461607/b7046d89-8bd5-4a12-999c-d2041f10387e
+https://github.com/Skyliner-dev/ShoeStore-Cazade/assets/109461607/5eca9502-0e89-41b9-a945-8cb29720f896
+
+
 
 
 
