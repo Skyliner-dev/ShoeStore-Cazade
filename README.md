@@ -1,5 +1,5 @@
 # ShoeStore-Cazade
-This project is intended for stage 1 of [Kotlin Nanodegree Program](https://www.udacity.com/course/android-kotlin-developer-nanodegree--nd940).
+This is a Basic project to demonstrate the modern way of building android apps using jetpack compose.
 
 ## How to Run the app
 
@@ -21,9 +21,6 @@ This project is intended for stage 1 of [Kotlin Nanodegree Program](https://www.
 <img align="center" src="https://github.com/Skyliner-dev/ShoeStore-Cazade/assets/109461607/51644d3b-818f-4bda-910d-c3a292839107" width="386" height="818">
 <img align="center" src="https://github.com/Skyliner-dev/ShoeStore-Cazade/assets/109461607/49f90165-1886-495a-a2a6-25cacd66c422" width="386" height="818">
 
-## Video
-
-https://github.com/Skyliner-dev/ShoeStore-Cazade/assets/109461607/5eca9502-0e89-41b9-a945-8cb29720f896
 
 
 
